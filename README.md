@@ -10,7 +10,7 @@ Technical troubleshooting guides and SOPs for high-volume hospitality environmen
 - **Integration:** SevenRooms/Resy API troubleshooting
 
 ### 📋 Sample Guides included:
-1. **Network Failover:** Steps to transition Toast POS to "Offline Mode" during ISP outages.
+1. [**Network Failover:**](network-failover-protocol.md) Steps to transition Toast POS to "Offline Mode" during ISP outages.
 2. **KDS Troubleshooting:** Resetting Kitchen Display Systems without losing active ticket data.
 3. **Hardware Audit:** Weekly diagnostic checklist for thermal printers and handheld tablets.
 
